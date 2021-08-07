@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 15px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#search-div {
+    display: block;
+    left: 100px;
+}
+
+#result-div {
+    display: inline-block;
+    line-height: 105.6px;
+}
