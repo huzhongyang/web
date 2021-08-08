@@ -4,20 +4,22 @@
 }
 
 #app {
-    background-color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.4);
     padding: 50px;
     border-radius: 15px;
     display: table-cell;
     vertical-align: middle;
     text-align: center;
+
 }
 
 #search-div {
     display: block;
     left: 100px;
+    padding: 10px;
 }
 
 #result-div {
     display: inline-block;
-    line-height: 105.6px;
+    line-height: 18px;
 }
